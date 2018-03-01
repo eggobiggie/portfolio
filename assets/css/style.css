@@ -1,0 +1,48 @@
+body {
+    background-image: url("../images/pexels-photo.jpg");
+    /* background-image: url("../images/swirl_pattern.png"); */
+
+    background-size: 200%;
+}
+
+#hiText {
+    margin-top: 75px;
+}
+
+.navText {
+    font-size: 25px;
+    color: #bdbdbd;
+}
+
+nav {
+    height: 100px;
+}
+
+nav ul li {
+    border-radius: 5px;
+}
+
+    
+li,
+.introText {
+    font-family: 'Amatic SC', cursive;
+    color: white;
+}
+
+
+#miaFace {
+    height: 250px;
+    opacity: 1.0;
+    margin-top: 40px;
+}
+
+.bottomDiv {
+    height: 400px;
+    width: 1000px;
+}
+
+.description {
+    color: white;
+    line-height: 1.5;
+    font-size: 15px;
+}
