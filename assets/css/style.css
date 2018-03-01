@@ -6,7 +6,7 @@ body {
 }
 
 #hiText {
-    margin-top: 75px;
+    margin-top: -25px;
 }
 
 .navText {
@@ -29,11 +29,15 @@ li,
     color: white;
 }
 
+.titleText {
+    margin-top: -25px;
+}
+
 
 #miaFace {
     height: 250px;
     opacity: 1.0;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .bottomDiv {
