@@ -27,10 +27,12 @@ li,
 .introText {
     font-family: 'Amatic SC', cursive;
     color: white;
+    text-shadow: 1px 1px #303030;
 }
 
 .titleText {
     margin-top: -25px;
+    text-shadow: 1px 1px #303030;
 }
 
 
@@ -49,6 +51,23 @@ li,
 .description {
     color: white;
     line-height: 1.5;
-    font-size: 15px;
+    font-size: 16px;
     margin-top: 15px;
+    text-shadow: 1px 1px #303030;
+}
+
+.contactMe {
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    /* font-size: 30px; */
+    text-shadow: 1px 1px #303030;
+    margin: 10px;
+}
+
+#emailMe {
+    margin-top: 20px;
+}
+
+.card-content {
+    line-height: 1.5;
 }
